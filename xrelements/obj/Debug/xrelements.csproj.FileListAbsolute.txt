@@ -1,0 +1,6 @@
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\bin\Debug\xrelements.exe.config
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\bin\Debug\xrelements.exe
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\bin\Debug\xrelements.pdb
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\obj\Debug\xrelements.exe
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\obj\Debug\xrelements.pdb
+E:\Users\Danielle Walker\Documents\Visual Studio 2015\Projects\xrelements\xrelements\obj\Debug\xrelements.csprojResolveAssemblyReference.cache
