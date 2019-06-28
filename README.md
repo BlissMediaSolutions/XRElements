@@ -13,12 +13,12 @@
   it will not function for an order of `TR` for a Qty of `4` (as TR products are available in Pack Sizes of 3, 5 or 9)
   
 #### Expansion:
-* The App can easily be expanded by simply adding another code to the enum `Product Code`, and implementing another class 
+* The App can easily be expanded by simply adding another code to the enum `ProductCode`, and implementing another class 
   which is derived from the Product Class.  Note - will need to define the Pack Sizes & Pack Prices within this dervied class constructor.
   
 #### Limitations:
 * The App is limited to only testing products with either 2 or 3 Pack Sizes.
-* This App could be improved by utilizing CartesianProduct to work out all possible Pack Sizes.  Due to time constraints, this wasn't implemented.
+* This App would be improved by utilizing CartesianProduct to work out all possible Pack Sizes.  Due to time constraints, this wasn't implemented, and so some bugs will most likely exist.
 
 #### Running the App:
 * This is a Console App (and thus runs via the Command Line).
@@ -50,3 +50,6 @@ Please Enter the Order (type '-1' to end order)
 1 x 9 $7.99
 1 x 3 $2.95
 ```
+
+#### Testing:
+This App does contain some Unit Tests (found within the project `xrelements-test`), which simply calculate the total Cost for a given Order.  These could be expanded upon, for example to also test the returned string, for a given order.
